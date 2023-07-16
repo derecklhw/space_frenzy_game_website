@@ -54,4 +54,31 @@ hostman -I
 
 When you have your server’s IP address, enter it into your browser’s address bar
 
-## Usage
+## Pages
+
+| Page                 | Description                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------- |
+| Home                 | Introduction of the webpage options.                                                         |
+| Game                 | Choose the desired game mode and play it.                                                    |
+| Explore              | Provides an overview of the different game modes and a tutorial on how to play.              |
+| Leaderboard          | Displays a sorted table in descending order, showing the highest scoring players at the top. |
+| Login & Registration | Allows users to log in or register to access the game.                                       |
+| Support              | Enables registered users to change their current password to a new one.                      |
+
+## Things Learned and Implemented
+
+### Front-end Development
+
+- Utilized `HTML5` and `CSS` to create a visually appealing and responsive user interface.
+- Implemented `Vanilla JavaScript` to enhance interactivity and user experience.
+- Applied modern design principles to improve the overall aesthetics of the game.
+
+### Back-end Development
+
+- Utilized `PHP` for server-side scripting and handling data.
+- Implemented `session management` for user authentication and authorization.
+- Integrated `local storage` and `session storage` to store and retrieve game data.
+
+## Conclusion
+
+Thank you for considering Space Frenzy! We hope you enjoy playing the game and experience the nostalgic thrill of the classic arcade era. If you have any questions or feedback, please don't hesitate to reach out. Happy gaming!
