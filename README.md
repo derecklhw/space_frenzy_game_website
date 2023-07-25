@@ -1,6 +1,6 @@
 # Space Frenzy
 
-Space Frenzy is a recreation of tw0 popular arcade games from the 1900s, Space Invaders and Space Shooters. This implementation utilizes `HTML5`, `CSS`, `PHP` and `Vanilla Javascript` to deliver an exciting gaming experience. In this game, the player control a spaceship and engages in battles against waves of aliens, including a challenging boss enemy in space.
+Space Frenzy is a recreation of two popular arcade games from the 1900s, Space Invaders and Space Shooters. This implementation utilizes `HTML5`, `CSS`, `PHP` and `Vanilla Javascript` to deliver an exciting gaming experience. In this game, the player controls a spaceship and engages in battles against waves of aliens, including a challenging boss enemy in space.
 
 This website has been developed on `Ubuntu 20.04`.
 
@@ -16,7 +16,7 @@ This website has been developed on `Ubuntu 20.04`.
    git clone https://github.com/derecklhw/space_frenzy_game_website.git
    ```
    
-3. Install `Apache2` as web server and `PHP` on your machine by running the following command.
+3. Install `Apache2` as a web server and `PHP` on your machine by running the following command.
 
     ```bash
     sudo apt update
@@ -66,7 +66,7 @@ When you have your server’s IP address, enter it into your browser’s address
 | Home                 | Introduction of the webpage options.                                                         |
 | Game                 | Choose the desired game mode and play it.                                                    |
 | Explore              | Provides an overview of the different game modes and a tutorial on how to play.              |
-| Leaderboard          | Displays a sorted table in descending order, showing the highest scoring players at the top. |
+| Leaderboard          | Displays a sorted table in descending order, showing the highest-scoring players at the top. |
 | Login & Registration | Allows users to log in or register to access the game.                                       |
 | Support              | Enables registered users to change their current password to a new one.                      |
 
