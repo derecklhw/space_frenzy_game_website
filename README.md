@@ -11,7 +11,12 @@ This website has been developed on `Ubuntu 20.04`.
 ## Installation
 
 1. Clone the repository to your local machine.
-2. Install `Apache2` as web server and `PHP` on your machine by running the following command.
+
+   ```bash
+   git clone https://github.com/derecklhw/space_frenzy_game_website.git
+   ```
+   
+3. Install `Apache2` as web server and `PHP` on your machine by running the following command.
 
     ```bash
     sudo apt update
@@ -19,19 +24,19 @@ This website has been developed on `Ubuntu 20.04`.
     sudo apt install php libapache2-mod-php
     ```
 
-3. Start the Apache web server by running
+4. Start the Apache web server by running
 
     ```bash
     sudo systemctl start apache2
     ```
 
-4. Move the cloned project directory to the Apache document root. For example, if the document root is `/var/www/html`, you can use the following command:
+5. Move the cloned project directory to the Apache document root. For example, if the document root is `/var/www/html`, you can use the following command:
 
     ```bash
     sudo mv space_frenzy_game_website /var/www/html
     ```
 
-5. Adjust the firewall to allow Web traffic
+6. Adjust the firewall to allow Web traffic
 
     ```bash
     sudo ufw app list
@@ -46,7 +51,7 @@ This website has been developed on `Ubuntu 20.04`.
     sudo ufw status
     ```
 
-6. If you don't know your server's IP address, use below command
+7. If you don't know your server's IP address, use below command
 
     ```bash
     hostman -I
