@@ -8,6 +8,17 @@ This website has been developed on `Ubuntu 20.04`.
 
 ![Game](assets/images/game.jpg)
 
+## Pages
+
+| Page                 | Description                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------- |
+| Home                 | Introduction of the webpage options.                                                         |
+| Game                 | Choose the desired game mode and play it.                                                    |
+| Explore              | Provides an overview of the different game modes and a tutorial on how to play.              |
+| Leaderboard          | Displays a sorted table in descending order, showing the highest-scoring players at the top. |
+| Login & Registration | Allows users to log in or register to access the game.                                       |
+| Support              | Enables registered users to change their current password to a new one.                      |
+
 ## Installation
 
 1. Clone the repository to your local machine.
@@ -58,17 +69,6 @@ This website has been developed on `Ubuntu 20.04`.
     ```
 
 When you have your server’s IP address, enter it into your browser’s address bar
-
-## Pages
-
-| Page                 | Description                                                                                  |
-| -------------------- | -------------------------------------------------------------------------------------------- |
-| Home                 | Introduction of the webpage options.                                                         |
-| Game                 | Choose the desired game mode and play it.                                                    |
-| Explore              | Provides an overview of the different game modes and a tutorial on how to play.              |
-| Leaderboard          | Displays a sorted table in descending order, showing the highest-scoring players at the top. |
-| Login & Registration | Allows users to log in or register to access the game.                                       |
-| Support              | Enables registered users to change their current password to a new one.                      |
 
 ## Things Learned and Implemented
 
